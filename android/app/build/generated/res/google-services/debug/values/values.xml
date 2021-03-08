@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">829940846814-vg8dbbjtrqdt2pvcitlg0cfarem8nf2h.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">829940846814</string>
+    <string name="google_api_key" translatable="false">AIzaSyA5V-whzpTkHA3zwlNsDcZRfvIu4AuFork</string>
+    <string name="google_app_id" translatable="false">1:829940846814:android:1d1f4ac6fbc4664510b24f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA5V-whzpTkHA3zwlNsDcZRfvIu4AuFork</string>
+    <string name="google_storage_bucket" translatable="false">iterablernapp.appspot.com</string>
+    <string name="project_id" translatable="false">iterablernapp</string>
+</resources>

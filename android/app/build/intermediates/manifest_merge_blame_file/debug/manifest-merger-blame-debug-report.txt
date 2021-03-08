@@ -1,0 +1,228 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.iterablernapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.54.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/779d7112d91eff09a45c274f0dc5e73d/flipper-0.54.0/AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.54.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/779d7112d91eff09a45c274f0dc5e73d/flipper-0.54.0/AndroidManifest.xml:16:22-73
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:9:5-79
+14-->[com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:9:22-76
+15    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+15-->[com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:24:5-68
+15-->[com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:24:22-65
+16    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+16-->[com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:26:5-82
+16-->[com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:26:22-79
+17
+18    <application
+18-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:6:5-25:19
+19        android:name="com.iterablernapp.MainApplication"
+19-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:7:7-38
+20        android:allowBackup="false"
+20-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:11:7-34
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/10486314706a910da2feee7b73685b0a/core-1.1.0/AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:9:7-41
+24        android:label="@string/app_name"
+24-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:8:7-39
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:10:7-52
+26        android:theme="@style/AppTheme"
+26-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:12:7-38
+27        android:usesCleartextTraffic="true" >
+27-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/debug/AndroidManifest.xml:7:18-53
+28        <activity
+28-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:13:7-23:18
+29            android:name="com.iterablernapp.MainActivity"
+29-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:14:9-37
+30            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+30-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:16:9-86
+31            android:label="@string/app_name"
+31-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:15:9-41
+32            android:launchMode="singleTask"
+32-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:17:9-40
+33            android:windowSoftInputMode="adjustResize" >
+33-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:18:9-51
+34            <intent-filter>
+34-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:19:9-22:25
+35                <action android:name="android.intent.action.MAIN" />
+35-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:20:13-65
+35-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:20:21-62
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:21:13-73
+37-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:21:23-70
+38            </intent-filter>
+39        </activity>
+40        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" /> <!-- FCM -->
+40-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:24:7-84
+40-->/Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:24:17-81
+41        <service
+41-->[com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:14:9-20:19
+42            android:name="com.iterable.iterableapi.IterableFirebaseMessagingService"
+42-->[com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:15:13-85
+43            android:exported="false" >
+43-->[com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:16:13-37
+44            <intent-filter android:priority="-1" >
+44-->[com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:17:13-19:29
+44-->[com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:17:28-49
+45                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+45-->[com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:18:17-78
+45-->[com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:18:25-75
+46            </intent-filter>
+47        </service> <!-- Action receiver for push interactions -->
+48        <receiver
+48-->[com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:23:9-29:20
+49            android:name="com.iterable.iterableapi.IterablePushActionReceiver"
+49-->[com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:24:13-79
+50            android:exported="false" >
+50-->[com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:25:13-37
+51            <intent-filter>
+51-->[com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:26:13-28:29
+52                <action android:name="com.iterable.push.ACTION_PUSH_ACTION" />
+52-->[com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:27:17-79
+52-->[com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:27:25-76
+53            </intent-filter>
+54        </receiver>
+55        <!--
+56             FirebaseMessagingService performs security checks at runtime,
+57             but set to not exported to explicitly avoid allowing another app to call it.
+58        -->
+59        <service
+59-->[com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:28:9-35:19
+60            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+60-->[com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:29:13-82
+61            android:directBootAware="true"
+61-->[com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:30:13-43
+62            android:exported="false" >
+62-->[com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:31:13-37
+63            <intent-filter android:priority="-500" >
+63-->[com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:17:13-19:29
+63-->[com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:17:28-49
+64                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+64-->[com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:18:17-78
+64-->[com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:18:25-75
+65            </intent-filter>
+66        </service>
+67        <service
+67-->[com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:36:9-42:19
+68            android:name="com.google.firebase.components.ComponentDiscoveryService"
+68-->[com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:37:13-84
+69            android:directBootAware="true"
+69-->[com.google.firebase:firebase-common:19.3.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a033289d2a512de5a7e86d4e4cdf53a8/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+70            android:exported="false" >
+70-->[com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:38:13-37
+71            <meta-data
+71-->[com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:39:13-41:85
+72                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+72-->[com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:40:17-119
+73                android:value="com.google.firebase.components.ComponentRegistrar" />
+73-->[com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:41:17-82
+74            <meta-data
+74-->[com.google.firebase:firebase-datatransport:17.0.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/2b8f3f3a59019412148a1adbc831cf70/firebase-datatransport-17.0.3/AndroidManifest.xml:28:13-30:85
+75                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+75-->[com.google.firebase:firebase-datatransport:17.0.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/2b8f3f3a59019412148a1adbc831cf70/firebase-datatransport-17.0.3/AndroidManifest.xml:29:17-115
+76                android:value="com.google.firebase.components.ComponentRegistrar" />
+76-->[com.google.firebase:firebase-datatransport:17.0.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/2b8f3f3a59019412148a1adbc831cf70/firebase-datatransport-17.0.3/AndroidManifest.xml:30:17-82
+77            <meta-data
+77-->[com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:32:13-34:85
+78                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+78-->[com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:33:17-96
+79                android:value="com.google.firebase.components.ComponentRegistrar" />
+79-->[com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:34:17-82
+80            <meta-data
+80-->[com.google.firebase:firebase-installations:16.3.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8d45a578e9ac21cf20ebaf54ed4a3bbd/firebase-installations-16.3.2/AndroidManifest.xml:17:13-19:85
+81                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+81-->[com.google.firebase:firebase-installations:16.3.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8d45a578e9ac21cf20ebaf54ed4a3bbd/firebase-installations-16.3.2/AndroidManifest.xml:18:17-127
+82                android:value="com.google.firebase.components.ComponentRegistrar" />
+82-->[com.google.firebase:firebase-installations:16.3.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8d45a578e9ac21cf20ebaf54ed4a3bbd/firebase-installations-16.3.2/AndroidManifest.xml:19:17-82
+83        </service>
+84        <service
+84-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:29:9-35:19
+85            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+85-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:30:13-103
+86            android:exported="false" >
+86-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:31:13-37
+87            <meta-data
+87-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:32:13-34:39
+88                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+88-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:33:17-94
+89                android:value="cct" />
+89-->[com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:34:17-36
+90        </service>
+91        <service
+91-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:26:9-30:19
+92            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+92-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:27:13-117
+93            android:exported="false"
+93-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:28:13-37
+94            android:permission="android.permission.BIND_JOB_SERVICE" >
+94-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:29:13-69
+95        </service>
+96
+97        <receiver
+97-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:32:9-34:40
+98            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+98-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:33:13-132
+99            android:exported="false" />
+99-->[com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:34:13-37
+100        <receiver
+100-->[com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:37:9-44:20
+101            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+101-->[com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:38:13-78
+102            android:exported="true"
+102-->[com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:39:13-36
+103            android:permission="com.google.android.c2dm.permission.SEND" >
+103-->[com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:40:13-73
+104            <intent-filter>
+104-->[com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:41:13-43:29
+105                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+105-->[com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:42:17-81
+105-->[com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:42:25-78
+106            </intent-filter>
+107        </receiver>
+108
+109        <provider
+109-->[com.google.firebase:firebase-common:19.3.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a033289d2a512de5a7e86d4e4cdf53a8/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+110            android:name="com.google.firebase.provider.FirebaseInitProvider"
+110-->[com.google.firebase:firebase-common:19.3.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a033289d2a512de5a7e86d4e4cdf53a8/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+111            android:authorities="com.iterablernapp.firebaseinitprovider"
+111-->[com.google.firebase:firebase-common:19.3.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a033289d2a512de5a7e86d4e4cdf53a8/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+112            android:exported="false"
+112-->[com.google.firebase:firebase-common:19.3.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a033289d2a512de5a7e86d4e4cdf53a8/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+113            android:initOrder="100" />
+113-->[com.google.firebase:firebase-common:19.3.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a033289d2a512de5a7e86d4e4cdf53a8/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+114
+115        <activity
+115-->[com.google.android.gms:play-services-base:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/6f3eed4834a171b6b2bfe94a1d14436b/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+116            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+116-->[com.google.android.gms:play-services-base:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/6f3eed4834a171b6b2bfe94a1d14436b/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+117            android:exported="false"
+117-->[com.google.android.gms:play-services-base:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/6f3eed4834a171b6b2bfe94a1d14436b/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+118            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+118-->[com.google.android.gms:play-services-base:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/6f3eed4834a171b6b2bfe94a1d14436b/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+119
+120        <meta-data
+120-->[com.google.android.gms:play-services-basement:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c654283aa4e0437107eb9edd2ed4abce/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+121            android:name="com.google.android.gms.version"
+121-->[com.google.android.gms:play-services-basement:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c654283aa4e0437107eb9edd2ed4abce/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+122            android:value="@integer/google_play_services_version" />
+122-->[com.google.android.gms:play-services-basement:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c654283aa4e0437107eb9edd2ed4abce/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+123    </application>
+124
+125</manifest>
