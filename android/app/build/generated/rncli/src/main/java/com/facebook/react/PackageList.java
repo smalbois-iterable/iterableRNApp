@@ -15,8 +15,6 @@ import java.util.ArrayList;
 import com.iterable.reactnative.RNIterableAPIPackage;
 // @react-native-firebase/app
 import io.invertase.firebase.app.ReactNativeFirebaseAppPackage;
-// @react-native-firebase/messaging
-import io.invertase.firebase.messaging.ReactNativeFirebaseMessagingPackage;
 // react-native-permissions
 import com.zoontek.rnpermissions.RNPermissionsPackage;
 
@@ -66,7 +64,6 @@ public class PackageList {
       new MainReactPackage(mConfig),
       new RNIterableAPIPackage(),
       new ReactNativeFirebaseAppPackage(),
-      new ReactNativeFirebaseMessagingPackage(),
       new RNPermissionsPackage()
     ));
   }

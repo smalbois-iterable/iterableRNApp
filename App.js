@@ -27,7 +27,7 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 import { Iterable, IterableConfig } from '@iterable/react-native-sdk';
 import {requestNotifications} from 'react-native-permissions';
-import { iterableAPIKey } from './config';
+import { iterableAPIKey, Email } from './config';
 
 const config = new IterableConfig();
 config.pushIntegrationName = "com.iterablernapp";
@@ -40,18 +40,8 @@ export default class App extends React.Component {
   constructor(props){
     super(props);
     this.state = {
-      name: 'World!',
+      email: Email,
     }
-
-
-      /* const config = new IterableConfig();
-      config.pushIntegrationName = "com.iterablernapp";
-      config.autoPushRegistration = true;
-      config.logLevel = 1;
-
-      Iterable.initialize("0c7d3bb37e9e4f9b90fb8b2b7c5db3a1", config)
-
-       */
   }
 
   componentDidMount() {
@@ -62,22 +52,22 @@ export default class App extends React.Component {
 
   onClick = () => {
 
-   const config = new IterableConfig();
+  const config = new IterableConfig();
   config.pushIntegrationName = "com.iterablernapp";
   config.autoPushRegistration = true;
   config.logLevel = 1;
 
   Iterable.initialize(iterableAPIKey, config)
-  Iterable.setEmail("seb.malbois+rn5@iterable.com")
+  Iterable.setEmail(Email)
 };
 
 render() {
 return (
     <View style={styles.container}>
-      <Text>Hello {this.state.name}</Text>
+      <Text>Email: {this.state.email}</Text>
       <Button
           onPress={() => {this.onClick()}}
-          title='Click me!'
+          title='Set me!'
           color='#4169E1'>
       </Button>
     </View>
