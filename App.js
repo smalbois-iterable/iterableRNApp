@@ -27,7 +27,7 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 import { Iterable, IterableConfig } from '@iterable/react-native-sdk';
 import {requestNotifications} from 'react-native-permissions';
-import { iterableAPIKey } from './Config';
+import { iterableAPIKey } from './config';
 
 const config = new IterableConfig();
 config.pushIntegrationName = "com.iterablernapp";
@@ -55,44 +55,48 @@ export default class App extends React.Component {
   }
 
   componentDidMount() {
-    /*
     requestNotifications(['alert', 'sound']).then(({status, settings}) => {
     });
-
-     */
 
   }
 
   onClick = () => {
-      Iterable.setEmail("seb.malbois+rn5@iterable.com")
-  };
 
-  render() {
-    return (
-        <View style={styles.container}>
-          <Text>Hello {this.state.name}</Text>
-          <Button
-              onPress={() => {this.onClick()}}
-              title='Click me!'
-              color='#4169E1'>
-          </Button>
-        </View>
-    );
-  }
+   const config = new IterableConfig();
+  config.pushIntegrationName = "com.iterablernapp";
+  config.autoPushRegistration = true;
+  config.logLevel = 1;
+
+  Iterable.initialize(iterableAPIKey, config)
+  Iterable.setEmail("seb.malbois+rn5@iterable.com")
+};
+
+render() {
+return (
+    <View style={styles.container}>
+      <Text>Hello {this.state.name}</Text>
+      <Button
+          onPress={() => {this.onClick()}}
+          title='Click me!'
+          color='#4169E1'>
+      </Button>
+    </View>
+);
+}
 }
 
 
 
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  nameText: {
-    fontSize: 50,
-    padding: 15,
-  }
+container: {
+flex: 1,
+backgroundColor: '#fff',
+alignItems: 'center',
+justifyContent: 'center',
+},
+nameText: {
+fontSize: 50,
+padding: 15,
+}
 });
