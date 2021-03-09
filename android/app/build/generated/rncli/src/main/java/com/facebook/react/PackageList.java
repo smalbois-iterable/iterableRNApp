@@ -13,6 +13,12 @@ import java.util.ArrayList;
 
 // @iterable/react-native-sdk
 import com.iterable.reactnative.RNIterableAPIPackage;
+// @react-native-firebase/app
+import io.invertase.firebase.app.ReactNativeFirebaseAppPackage;
+// @react-native-firebase/messaging
+import io.invertase.firebase.messaging.ReactNativeFirebaseMessagingPackage;
+// react-native-permissions
+import com.zoontek.rnpermissions.RNPermissionsPackage;
 
 public class PackageList {
   private Application application;
@@ -58,7 +64,10 @@ public class PackageList {
   public ArrayList<ReactPackage> getPackages() {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(mConfig),
-      new RNIterableAPIPackage()
+      new RNIterableAPIPackage(),
+      new ReactNativeFirebaseAppPackage(),
+      new ReactNativeFirebaseMessagingPackage(),
+      new RNPermissionsPackage()
     ));
   }
 }

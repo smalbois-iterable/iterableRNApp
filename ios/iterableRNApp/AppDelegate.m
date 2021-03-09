@@ -55,4 +55,21 @@ static void InitializeFlipper(UIApplication *application) {
 #endif
 }
 
+
+- (void)application:(UIApplication *)app didRegisterForRemoteNotificationsWithDeviceToken:(NSData *)deviceToken
+{
+  NSUInteger dataLength = deviceToken.length;
+  if (dataLength == 0) {
+    return;
+  }
+  const unsigned char *dataBuffer = (const unsigned char *)deviceToken.bytes;
+  NSMutableString *hexString  = [NSMutableString stringWithCapacity:(dataLength * 2)];
+  for (int i = 0; i < dataLength; ++i) {
+    [hexString appendFormat:@"%02x", dataBuffer[i]];
+  }
+  NSLog(@"APN token:%@", hexString);
+  
+  [IterableAPI registerToken:deviceToken];
+}
+
 @end

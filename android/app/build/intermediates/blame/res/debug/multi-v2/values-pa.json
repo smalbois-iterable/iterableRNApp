@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c654283aa4e0437107eb9edd2ed4abce/jetified-play-services-basement-17.0.0/res/values-pa/values.xml",
+                    "source": "/Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a3d0f7b184011f1739253575364b297c/jetified-play-services-basement-17.1.1/res/values-pa/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "/Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/6f3eed4834a171b6b2bfe94a1d14436b/play-services-base-17.0.0/res/values-pa/values.xml",
+                    "source": "/Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/92463801542de9a996010fb3f6d3b1aa/jetified-firebase-messaging-21.0.1/res/values-pa/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "207",
+                        "endColumns": "99",
+                        "endOffsets": "306"
+                    },
+                    "to": {
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "5523",
+                        "endColumns": "103",
+                        "endOffsets": "5622"
+                    }
+                },
+                {
+                    "source": "/Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/87de111cf3e68002d567f5927fd9f327/play-services-base-17.1.0/res/values-pa/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -69,23 +86,6 @@
                         "startOffsets": "5706",
                         "endColumns": "100",
                         "endOffsets": "5802"
-                    }
-                },
-                {
-                    "source": "/Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/res/values-pa/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "207",
-                        "endColumns": "99",
-                        "endOffsets": "306"
-                    },
-                    "to": {
-                        "startLines": "47",
-                        "startColumns": "4",
-                        "startOffsets": "5523",
-                        "endColumns": "103",
-                        "endOffsets": "5622"
                     }
                 }
             ]

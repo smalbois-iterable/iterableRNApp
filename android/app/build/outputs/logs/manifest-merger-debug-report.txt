@@ -9,12 +9,15 @@ MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/seb.malbois/.gradle/cac
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c7df41d73f2169b7ce29d04cafe5cb4e/flipper-network-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/5bc51ce5c16147f39673bf1f3b08e3cb/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
 MERGED from [:iterable_react-native-sdk] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@iterable/react-native-sdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.react:react-native:0.62.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/96f05827180d46ad22a0e52b600692b1/jetified-react-native-0.62.2/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-45:12
+MERGED from [:react-native-firebase_app] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-permissions] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/react-native-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.63.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d4c4223484668c34aeeb08aca36f3ef7/jetified-react-native-0.63.0/AndroidManifest.xml:2:1-13:12
 MERGED from [com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:2:1-32:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4883f01017d33b45f01ebc0935327e22/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1f0a235ae29e4d15fb1b343a1f45cde2/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1b2f9e71a1b8d2a95d6716927f54f7e4/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:17:1-45:12
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/92463801542de9a996010fb3f6d3b1aa/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:17:1-45:12
 MERGED from [org.webkit:android-jsc:r245459] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/b6d0fff04acd306c4ad360e4b40fd652/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/9f4dd2948d45311c7acc9b54cd257234/flipper-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1c8000bc08db05b86a52c0fc7e9b8bdb/stetho-2.2.0/AndroidManifest.xml:2:1-9:12
@@ -32,29 +35,29 @@ MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/seb.malbois/.g
 MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/5b0553b3326b64108ee703420ea5481b/soloader-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f2cc36bcbb7935a979cb02adfd225bf1/soloader-0.9.0/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/b5598c0cc9d549a7f1f9031e7d654e57/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/2b8f3f3a59019412148a1adbc831cf70/firebase-datatransport-17.0.3/AndroidManifest.xml:15:1-34:12
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:15:1-38:12
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/be6f43acf2e13712c0a0826019fc4401/firebase-datatransport-17.0.10/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8f7792c062f59fb317197209ca8d1ab1/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/441a76f65cc95c7a73bf01f1edbdd83a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:15:1-41:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/9f5580a24509620d4db87541d1450cbb/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d14f84d413f780135ba3c8a29f69a635/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c5b68e18d4a3408c29c2cace65918de9/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:17:1-47:12
-MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8d45a578e9ac21cf20ebaf54ed4a3bbd/firebase-installations-16.3.2/AndroidManifest.xml:2:1-23:12
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a033289d2a512de5a7e86d4e4cdf53a8/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
-MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f340fccf38770d3e8d1c25a80bba6826/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
-MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/ebc1c16dc7221fc6444e85a008d8f8c2/firebase-encoders-json-16.0.0/AndroidManifest.xml:15:1-23:12
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/852dd6f0f0d68108410438ba99197a27/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/7e85f1e3b9f23b3450436b67f5b22e87/firebase-installations-interop-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d84030a71d871493ee0e7644ea27c4a2/play-services-auth-19.0.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f2921f09efb7cd23cc29ee43fae505d9/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/505838eff4ee5343d74f0bad86b59ef8/play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:17:1-47:12
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/028ab810bb4dfc7083ce8075400975a5/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/6f3eed4834a171b6b2bfe94a1d14436b/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c8e04542acade7e4ce5fe143cd1b16bb/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/87de111cf3e68002d567f5927fd9f327/play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/26c2e1d5ac959a06f28454385aaa4ddc/firebase-installations-16.3.5/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f82d45cea499d676949caea623d8ea3c/jetified-firebase-common-19.5.0/AndroidManifest.xml:15:1-49:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/e9984be33fc8a920c66b3ef9eb9e09e3/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/852dd6f0f0d68108410438ba99197a27/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d2c8d6fe24f9e7690b216225014b4ff4/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c654283aa4e0437107eb9edd2ed4abce/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a3d0f7b184011f1739253575364b297c/jetified-play-services-basement-17.1.1/AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/37bbc484b101996f2d034c437200b401/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/2cf426bf2e05f7c77c90769433c84aab/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/79018c3ec0b373815da5c882b4dccb92/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/3dfe36f0f53b354707fda61f444cbdd1/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/77888e421208257e71e7650affd97fb9/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/3dfe36f0f53b354707fda61f444cbdd1/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/674a4b13529d91d107dec06ea3f2d1d1/activity-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d6836473df96f9ba6d8acc61302d5c6d/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/02575f3d580a78e407f0c94acf66d287/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -65,16 +68,21 @@ MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/seb.
 MERGED from [androidx.core:core:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/10486314706a910da2feee7b73685b0a/core-1.1.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d7893c9ebbe4aac00b754d99000146b2/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f116c787301670c7d89ae42f20f1a8a7/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/e52f2cd80f891dd1b8b9803a98ba4f2e/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/af645f95e72281bc31473d4d979d4dc1/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a2177237df624b4080fd50bbe3e1e2d7/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/b0054269cad5dfdcf21157c7d4ae76d4/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/7913ac97ed3d6ab521415ed6edf4e02a/firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/87ef34a9567077c30b575a2550d4a060/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8cbc53ae1064663491218e1b71eb1980/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/892df1ed95254d76672c1aa2c414ea74/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/e52f2cd80f891dd1b8b9803a98ba4f2e/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/af645f95e72281bc31473d4d979d4dc1/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a2177237df624b4080fd50bbe3e1e2d7/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a26063be060351aec9e9dff75daf35e8/jetified-transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/6245e3abec295189ef7aba461c5b79c9/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/84a615dd52a0313a86de34801be3e779/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/5c449f5d46be45a51c9cd758ee205d33/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/eece101c3949c9a54ad39ab2c0c369a6/transport-api-2.2.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/b270b51fd29e2b2d40d7850f8073b455/firebase-installations-interop-16.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c8e04542acade7e4ce5fe143cd1b16bb/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/3d927a3e46c35e26948d8e897daaddfc/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/857c879ee98796b8c30ee08f1d085d73/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a3180fef5fbab3005f708bb3662bda1a/ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
@@ -101,54 +109,62 @@ uses-permission#android.permission.INTERNET
 ADDED from /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:4:5-67
 MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/779d7112d91eff09a45c274f0dc5e73d/flipper-0.54.0/AndroidManifest.xml:15:5-67
 MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/779d7112d91eff09a45c274f0dc5e73d/flipper-0.54.0/AndroidManifest.xml:15:5-67
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:26:5-67
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:26:5-67
-MERGED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8d45a578e9ac21cf20ebaf54ed4a3bbd/firebase-installations-16.3.2/AndroidManifest.xml:11:5-67
-MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8d45a578e9ac21cf20ebaf54ed4a3bbd/firebase-installations-16.3.2/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8f7792c062f59fb317197209ca8d1ab1/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8f7792c062f59fb317197209ca8d1ab1/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/26c2e1d5ac959a06f28454385aaa4ddc/firebase-installations-16.3.5/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/26c2e1d5ac959a06f28454385aaa4ddc/firebase-installations-16.3.5/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/e9984be33fc8a920c66b3ef9eb9e09e3/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/e9984be33fc8a920c66b3ef9eb9e09e3/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
 	android:name
 		ADDED from /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:4:22-64
 application
 ADDED from /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:6:5-25:19
 MERGED from /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:6:5-25:19
 MERGED from /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/android/app/src/main/AndroidManifest.xml:6:5-25:19
-MERGED from [com.facebook.react:react-native:0.62.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/96f05827180d46ad22a0e52b600692b1/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.62.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/96f05827180d46ad22a0e52b600692b1/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-43:19
+MERGED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-43:19
+MERGED from [com.facebook.react:react-native:0.63.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d4c4223484668c34aeeb08aca36f3ef7/jetified-react-native-0.63.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d4c4223484668c34aeeb08aca36f3ef7/jetified-react-native-0.63.0/AndroidManifest.xml:11:5-20
 MERGED from [com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:11:5-30:19
 MERGED from [com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:11:5-30:19
-MERGED from [com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:22:5-43:19
-MERGED from [com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/92463801542de9a996010fb3f6d3b1aa/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/92463801542de9a996010fb3f6d3b1aa/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:22:5-43:19
 MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f2cc36bcbb7935a979cb02adfd225bf1/soloader-0.9.0/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f2cc36bcbb7935a979cb02adfd225bf1/soloader-0.9.0/AndroidManifest.xml:11:5-20
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/2b8f3f3a59019412148a1adbc831cf70/firebase-datatransport-17.0.3/AndroidManifest.xml:24:5-32:19
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/2b8f3f3a59019412148a1adbc831cf70/firebase-datatransport-17.0.3/AndroidManifest.xml:24:5-32:19
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:28:5-36:19
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:28:5-36:19
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:25:5-39:19
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:25:5-39:19
-MERGED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:28:5-45:19
-MERGED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:28:5-45:19
-MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8d45a578e9ac21cf20ebaf54ed4a3bbd/firebase-installations-16.3.2/AndroidManifest.xml:13:5-21:19
-MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8d45a578e9ac21cf20ebaf54ed4a3bbd/firebase-installations-16.3.2/AndroidManifest.xml:13:5-21:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a033289d2a512de5a7e86d4e4cdf53a8/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a033289d2a512de5a7e86d4e4cdf53a8/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/852dd6f0f0d68108410438ba99197a27/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/852dd6f0f0d68108410438ba99197a27/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/be6f43acf2e13712c0a0826019fc4401/firebase-datatransport-17.0.10/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/be6f43acf2e13712c0a0826019fc4401/firebase-datatransport-17.0.10/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8f7792c062f59fb317197209ca8d1ab1/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8f7792c062f59fb317197209ca8d1ab1/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/441a76f65cc95c7a73bf01f1edbdd83a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/441a76f65cc95c7a73bf01f1edbdd83a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d84030a71d871493ee0e7644ea27c4a2/play-services-auth-19.0.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d84030a71d871493ee0e7644ea27c4a2/play-services-auth-19.0.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:28:5-45:19
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/028ab810bb4dfc7083ce8075400975a5/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/028ab810bb4dfc7083ce8075400975a5/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/6f3eed4834a171b6b2bfe94a1d14436b/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/6f3eed4834a171b6b2bfe94a1d14436b/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c8e04542acade7e4ce5fe143cd1b16bb/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c8e04542acade7e4ce5fe143cd1b16bb/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/87de111cf3e68002d567f5927fd9f327/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/87de111cf3e68002d567f5927fd9f327/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/26c2e1d5ac959a06f28454385aaa4ddc/firebase-installations-16.3.5/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/26c2e1d5ac959a06f28454385aaa4ddc/firebase-installations-16.3.5/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f82d45cea499d676949caea623d8ea3c/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f82d45cea499d676949caea623d8ea3c/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/852dd6f0f0d68108410438ba99197a27/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/852dd6f0f0d68108410438ba99197a27/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d2c8d6fe24f9e7690b216225014b4ff4/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d2c8d6fe24f9e7690b216225014b4ff4/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c654283aa4e0437107eb9edd2ed4abce/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c654283aa4e0437107eb9edd2ed4abce/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a3d0f7b184011f1739253575364b297c/jetified-play-services-basement-17.1.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a3d0f7b184011f1739253575364b297c/jetified-play-services-basement-17.1.1/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/10486314706a910da2feee7b73685b0a/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/10486314706a910da2feee7b73685b0a/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f116c787301670c7d89ae42f20f1a8a7/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f116c787301670c7d89ae42f20f1a8a7/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c8e04542acade7e4ce5fe143cd1b16bb/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c8e04542acade7e4ce5fe143cd1b16bb/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/10486314706a910da2feee7b73685b0a/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:label
@@ -213,8 +229,14 @@ MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/seb.malbo
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/5bc51ce5c16147f39673bf1f3b08e3cb/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
 MERGED from [:iterable_react-native-sdk] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@iterable/react-native-sdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:iterable_react-native-sdk] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@iterable/react-native-sdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.react:react-native:0.62.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/96f05827180d46ad22a0e52b600692b1/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.62.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/96f05827180d46ad22a0e52b600692b1/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-permissions] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/react-native-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/react-native-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.63.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d4c4223484668c34aeeb08aca36f3ef7/jetified-react-native-0.63.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d4c4223484668c34aeeb08aca36f3ef7/jetified-react-native-0.63.0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4883f01017d33b45f01ebc0935327e22/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
@@ -223,8 +245,8 @@ MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/seb.malbois/.g
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1f0a235ae29e4d15fb1b343a1f45cde2/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1b2f9e71a1b8d2a95d6716927f54f7e4/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1b2f9e71a1b8d2a95d6716927f54f7e4/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/92463801542de9a996010fb3f6d3b1aa/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/92463801542de9a996010fb3f6d3b1aa/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:20:5-44
 MERGED from [org.webkit:android-jsc:r245459] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/b6d0fff04acd306c4ad360e4b40fd652/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/b6d0fff04acd306c4ad360e4b40fd652/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/9f4dd2948d45311c7acc9b54cd257234/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
@@ -259,52 +281,52 @@ MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/seb.malbois/.gradle/ca
 MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f2cc36bcbb7935a979cb02adfd225bf1/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/b5598c0cc9d549a7f1f9031e7d654e57/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/b5598c0cc9d549a7f1f9031e7d654e57/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/2b8f3f3a59019412148a1adbc831cf70/firebase-datatransport-17.0.3/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/2b8f3f3a59019412148a1adbc831cf70/firebase-datatransport-17.0.3/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/be6f43acf2e13712c0a0826019fc4401/firebase-datatransport-17.0.10/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/be6f43acf2e13712c0a0826019fc4401/firebase-datatransport-17.0.10/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8f7792c062f59fb317197209ca8d1ab1/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8f7792c062f59fb317197209ca8d1ab1/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/441a76f65cc95c7a73bf01f1edbdd83a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/441a76f65cc95c7a73bf01f1edbdd83a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:18:5-20:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/9f5580a24509620d4db87541d1450cbb/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/9f5580a24509620d4db87541d1450cbb/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d14f84d413f780135ba3c8a29f69a635/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d14f84d413f780135ba3c8a29f69a635/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c5b68e18d4a3408c29c2cace65918de9/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c5b68e18d4a3408c29c2cace65918de9/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8d45a578e9ac21cf20ebaf54ed4a3bbd/firebase-installations-16.3.2/AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8d45a578e9ac21cf20ebaf54ed4a3bbd/firebase-installations-16.3.2/AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a033289d2a512de5a7e86d4e4cdf53a8/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a033289d2a512de5a7e86d4e4cdf53a8/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f340fccf38770d3e8d1c25a80bba6826/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f340fccf38770d3e8d1c25a80bba6826/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/ebc1c16dc7221fc6444e85a008d8f8c2/firebase-encoders-json-16.0.0/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/ebc1c16dc7221fc6444e85a008d8f8c2/firebase-encoders-json-16.0.0/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/852dd6f0f0d68108410438ba99197a27/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/852dd6f0f0d68108410438ba99197a27/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/7e85f1e3b9f23b3450436b67f5b22e87/firebase-installations-interop-16.0.0/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/7e85f1e3b9f23b3450436b67f5b22e87/firebase-installations-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d84030a71d871493ee0e7644ea27c4a2/play-services-auth-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d84030a71d871493ee0e7644ea27c4a2/play-services-auth-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f2921f09efb7cd23cc29ee43fae505d9/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f2921f09efb7cd23cc29ee43fae505d9/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/505838eff4ee5343d74f0bad86b59ef8/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/505838eff4ee5343d74f0bad86b59ef8/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/028ab810bb4dfc7083ce8075400975a5/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/028ab810bb4dfc7083ce8075400975a5/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/6f3eed4834a171b6b2bfe94a1d14436b/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/6f3eed4834a171b6b2bfe94a1d14436b/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c8e04542acade7e4ce5fe143cd1b16bb/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c8e04542acade7e4ce5fe143cd1b16bb/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/87de111cf3e68002d567f5927fd9f327/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/87de111cf3e68002d567f5927fd9f327/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/26c2e1d5ac959a06f28454385aaa4ddc/firebase-installations-16.3.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/26c2e1d5ac959a06f28454385aaa4ddc/firebase-installations-16.3.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f82d45cea499d676949caea623d8ea3c/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f82d45cea499d676949caea623d8ea3c/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/e9984be33fc8a920c66b3ef9eb9e09e3/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/e9984be33fc8a920c66b3ef9eb9e09e3/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/852dd6f0f0d68108410438ba99197a27/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/852dd6f0f0d68108410438ba99197a27/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d2c8d6fe24f9e7690b216225014b4ff4/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d2c8d6fe24f9e7690b216225014b4ff4/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c654283aa4e0437107eb9edd2ed4abce/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c654283aa4e0437107eb9edd2ed4abce/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a3d0f7b184011f1739253575364b297c/jetified-play-services-basement-17.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a3d0f7b184011f1739253575364b297c/jetified-play-services-basement-17.1.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/37bbc484b101996f2d034c437200b401/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/37bbc484b101996f2d034c437200b401/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/2cf426bf2e05f7c77c90769433c84aab/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/2cf426bf2e05f7c77c90769433c84aab/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/79018c3ec0b373815da5c882b4dccb92/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/79018c3ec0b373815da5c882b4dccb92/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/3dfe36f0f53b354707fda61f444cbdd1/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/3dfe36f0f53b354707fda61f444cbdd1/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/77888e421208257e71e7650affd97fb9/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/77888e421208257e71e7650affd97fb9/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/3dfe36f0f53b354707fda61f444cbdd1/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/3dfe36f0f53b354707fda61f444cbdd1/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.activity:activity:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/674a4b13529d91d107dec06ea3f2d1d1/activity-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/674a4b13529d91d107dec06ea3f2d1d1/activity-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d6836473df96f9ba6d8acc61302d5c6d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -325,26 +347,36 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/seb.malbois/.gra
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d7893c9ebbe4aac00b754d99000146b2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f116c787301670c7d89ae42f20f1a8a7/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f116c787301670c7d89ae42f20f1a8a7/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/e52f2cd80f891dd1b8b9803a98ba4f2e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/e52f2cd80f891dd1b8b9803a98ba4f2e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/af645f95e72281bc31473d4d979d4dc1/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/af645f95e72281bc31473d4d979d4dc1/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a2177237df624b4080fd50bbe3e1e2d7/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a2177237df624b4080fd50bbe3e1e2d7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/b0054269cad5dfdcf21157c7d4ae76d4/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/b0054269cad5dfdcf21157c7d4ae76d4/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/7913ac97ed3d6ab521415ed6edf4e02a/firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/7913ac97ed3d6ab521415ed6edf4e02a/firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/87ef34a9567077c30b575a2550d4a060/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/87ef34a9567077c30b575a2550d4a060/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8cbc53ae1064663491218e1b71eb1980/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8cbc53ae1064663491218e1b71eb1980/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/892df1ed95254d76672c1aa2c414ea74/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/892df1ed95254d76672c1aa2c414ea74/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/e52f2cd80f891dd1b8b9803a98ba4f2e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/e52f2cd80f891dd1b8b9803a98ba4f2e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/af645f95e72281bc31473d4d979d4dc1/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/af645f95e72281bc31473d4d979d4dc1/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a2177237df624b4080fd50bbe3e1e2d7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a2177237df624b4080fd50bbe3e1e2d7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a26063be060351aec9e9dff75daf35e8/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a26063be060351aec9e9dff75daf35e8/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/6245e3abec295189ef7aba461c5b79c9/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/6245e3abec295189ef7aba461c5b79c9/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/84a615dd52a0313a86de34801be3e779/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/84a615dd52a0313a86de34801be3e779/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/5c449f5d46be45a51c9cd758ee205d33/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/5c449f5d46be45a51c9cd758ee205d33/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/eece101c3949c9a54ad39ab2c0c369a6/transport-api-2.2.0/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/eece101c3949c9a54ad39ab2c0c369a6/transport-api-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/b270b51fd29e2b2d40d7850f8073b455/firebase-installations-interop-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/b270b51fd29e2b2d40d7850f8073b455/firebase-installations-interop-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c8e04542acade7e4ce5fe143cd1b16bb/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c8e04542acade7e4ce5fe143cd1b16bb/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/3d927a3e46c35e26948d8e897daaddfc/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/3d927a3e46c35e26948d8e897daaddfc/multidex-2.0.0/AndroidManifest.xml:20:5-43
 MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/857c879ee98796b8c30ee08f1d085d73/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/857c879ee98796b8c30ee08f1d085d73/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a3180fef5fbab3005f708bb3662bda1a/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
@@ -365,32 +397,84 @@ uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/779d7112d91eff09a45c274f0dc5e73d/flipper-0.54.0/AndroidManifest.xml:16:5-76
 	android:name
 		ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/779d7112d91eff09a45c274f0dc5e73d/flipper-0.54.0/AndroidManifest.xml:16:22-73
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:9:5-79
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8d45a578e9ac21cf20ebaf54ed4a3bbd/firebase-installations-16.3.2/AndroidManifest.xml:10:5-79
-MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8d45a578e9ac21cf20ebaf54ed4a3bbd/firebase-installations-16.3.2/AndroidManifest.xml:10:5-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/e9984be33fc8a920c66b3ef9eb9e09e3/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/e9984be33fc8a920c66b3ef9eb9e09e3/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
 	android:name
-		ADDED from [com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:9:22-76
+		ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:9:5-79
+MERGED from [com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8f7792c062f59fb317197209ca8d1ab1/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8f7792c062f59fb317197209ca8d1ab1/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/441a76f65cc95c7a73bf01f1edbdd83a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/441a76f65cc95c7a73bf01f1edbdd83a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/26c2e1d5ac959a06f28454385aaa4ddc/firebase-installations-16.3.5/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/26c2e1d5ac959a06f28454385aaa4ddc/firebase-installations-16.3.5/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/e9984be33fc8a920c66b3ef9eb9e09e3/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/e9984be33fc8a920c66b3ef9eb9e09e3/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService
+ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-111
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-108
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService
+ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-23:19
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-95
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-22:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:17-78
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:25-75
+receiver#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver
+ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-96
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-31:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:17-81
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:25-78
+meta-data#firebase_messaging_auto_init_enabled
+ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:9-36:36
+	android:value
+		ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-33
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:13-64
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:9-39:32
+	android:value
+		ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-29
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-89
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:9-42:47
+	android:resource
+		ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/seb.malbois/_Iterable/Post-Sales/react-native/iterableRNApp/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-84
 service#com.iterable.iterableapi.IterableFirebaseMessagingService
 ADDED from [com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:14:9-20:19
 	android:exported
 		ADDED from [com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:16:13-37
 	android:name
 		ADDED from [com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:15:13-85
-intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from [com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:17:13-19:29
-	android:priority
-		ADDED from [com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:17:28-49
-action#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:18:17-78
-	android:name
-		ADDED from [com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:18:25-75
 receiver#com.iterable.iterableapi.IterablePushActionReceiver
 ADDED from [com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:23:9-29:20
 	android:exported
@@ -404,126 +488,146 @@ ADDED from [com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/
 	android:name
 		ADDED from [com.github.Iterable.iterable-android-sdk:iterableapi:3.2.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4a951d31398b37d47a9576efc6b339d4/iterableapi-3.2.10/AndroidManifest.xml:27:25-76
 service#com.google.firebase.messaging.FirebaseMessagingService
-ADDED from [com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:28:9-35:19
+ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/92463801542de9a996010fb3f6d3b1aa/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:28:9-35:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:31:13-37
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/92463801542de9a996010fb3f6d3b1aa/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:31:13-37
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:30:13-43
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/92463801542de9a996010fb3f6d3b1aa/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:30:13-43
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:29:13-82
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/92463801542de9a996010fb3f6d3b1aa/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:29:13-82
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:36:9-42:19
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/2b8f3f3a59019412148a1adbc831cf70/firebase-datatransport-17.0.3/AndroidManifest.xml:25:9-31:19
-MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/2b8f3f3a59019412148a1adbc831cf70/firebase-datatransport-17.0.3/AndroidManifest.xml:25:9-31:19
-MERGED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8d45a578e9ac21cf20ebaf54ed4a3bbd/firebase-installations-16.3.2/AndroidManifest.xml:14:9-20:19
-MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8d45a578e9ac21cf20ebaf54ed4a3bbd/firebase-installations-16.3.2/AndroidManifest.xml:14:9-20:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a033289d2a512de5a7e86d4e4cdf53a8/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a033289d2a512de5a7e86d4e4cdf53a8/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/92463801542de9a996010fb3f6d3b1aa/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:36:9-42:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/be6f43acf2e13712c0a0826019fc4401/firebase-datatransport-17.0.10/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/be6f43acf2e13712c0a0826019fc4401/firebase-datatransport-17.0.10/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/26c2e1d5ac959a06f28454385aaa4ddc/firebase-installations-16.3.5/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/26c2e1d5ac959a06f28454385aaa4ddc/firebase-installations-16.3.5/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f82d45cea499d676949caea623d8ea3c/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f82d45cea499d676949caea623d8ea3c/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:38:13-37
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/92463801542de9a996010fb3f6d3b1aa/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:38:13-37
 	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a033289d2a512de5a7e86d4e4cdf53a8/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f82d45cea499d676949caea623d8ea3c/jetified-firebase-common-19.5.0/AndroidManifest.xml:37:13-32
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a033289d2a512de5a7e86d4e4cdf53a8/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f82d45cea499d676949caea623d8ea3c/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:37:13-84
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/92463801542de9a996010fb3f6d3b1aa/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:37:13-84
 meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
-ADDED from [com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:39:13-41:85
+ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/92463801542de9a996010fb3f6d3b1aa/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:39:13-41:85
 	android:value
-		ADDED from [com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:41:17-82
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/92463801542de9a996010fb3f6d3b1aa/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:41:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/1a6b62550af2b2db43984ed6bef01ee9/jetified-firebase-messaging-20.2.3/AndroidManifest.xml:40:17-119
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/92463801542de9a996010fb3f6d3b1aa/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:40:17-119
 meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
-ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/2b8f3f3a59019412148a1adbc831cf70/firebase-datatransport-17.0.3/AndroidManifest.xml:28:13-30:85
+ADDED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/be6f43acf2e13712c0a0826019fc4401/firebase-datatransport-17.0.10/AndroidManifest.xml:28:13-30:85
 	android:value
-		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/2b8f3f3a59019412148a1adbc831cf70/firebase-datatransport-17.0.3/AndroidManifest.xml:30:17-82
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/be6f43acf2e13712c0a0826019fc4401/firebase-datatransport-17.0.10/AndroidManifest.xml:30:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/2b8f3f3a59019412148a1adbc831cf70/firebase-datatransport-17.0.3/AndroidManifest.xml:29:17-115
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/be6f43acf2e13712c0a0826019fc4401/firebase-datatransport-17.0.10/AndroidManifest.xml:29:17-115
 service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
-ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:36:9-38:40
-MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:36:9-38:40
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8f7792c062f59fb317197209ca8d1ab1/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/441a76f65cc95c7a73bf01f1edbdd83a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/441a76f65cc95c7a73bf01f1edbdd83a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:36:9-38:40
 	android:exported
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:31:13-37
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8f7792c062f59fb317197209ca8d1ab1/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
 	android:name
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:30:13-103
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8f7792c062f59fb317197209ca8d1ab1/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
 meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
-ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:32:13-34:39
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8f7792c062f59fb317197209ca8d1ab1/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
 	android:value
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:34:17-36
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8f7792c062f59fb317197209ca8d1ab1/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
 	android:name
-		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f9d551e87e48918e2044b09931655acd/transport-backend-cct-2.2.0/AndroidManifest.xml:33:17-94
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8f7792c062f59fb317197209ca8d1ab1/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
 service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
-ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:26:9-30:19
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/441a76f65cc95c7a73bf01f1edbdd83a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:26:9-30:19
 	android:exported
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:28:13-37
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/441a76f65cc95c7a73bf01f1edbdd83a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:28:13-37
 	android:permission
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:29:13-69
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/441a76f65cc95c7a73bf01f1edbdd83a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:29:13-69
 	android:name
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:27:13-117
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/441a76f65cc95c7a73bf01f1edbdd83a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:27:13-117
 receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
-ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:32:9-34:40
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/441a76f65cc95c7a73bf01f1edbdd83a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:32:9-34:40
 	android:exported
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:34:13-37
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/441a76f65cc95c7a73bf01f1edbdd83a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:34:13-37
 	android:name
-		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/cac949855dc1204bc2cff55ff66026a2/transport-runtime-2.2.0/AndroidManifest.xml:33:13-132
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:24:5-68
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:24:22-65
-uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:26:5-82
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:26:22-79
-meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
-ADDED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:32:13-34:85
-	android:value
-		ADDED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:34:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:33:17-96
-receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:37:9-44:20
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/441a76f65cc95c7a73bf01f1edbdd83a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:33:13-132
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d84030a71d871493ee0e7644ea27c4a2/play-services-auth-19.0.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d84030a71d871493ee0e7644ea27c4a2/play-services-auth-19.0.0/AndroidManifest.xml:25:13-46
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:39:13-36
-	android:permission
-		ADDED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:40:13-73
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:38:13-78
-intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:41:13-43:29
-action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:42:17-81
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.2.3] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/946e706b2f2b19d74f94ead7425684f9/firebase-iid-20.2.3/AndroidManifest.xml:42:25-78
-meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
-ADDED from [com.google.firebase:firebase-installations:16.3.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8d45a578e9ac21cf20ebaf54ed4a3bbd/firebase-installations-16.3.2/AndroidManifest.xml:17:13-19:85
-	android:value
-		ADDED from [com.google.firebase:firebase-installations:16.3.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8d45a578e9ac21cf20ebaf54ed4a3bbd/firebase-installations-16.3.2/AndroidManifest.xml:19:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-installations:16.3.2] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/8d45a578e9ac21cf20ebaf54ed4a3bbd/firebase-installations-16.3.2/AndroidManifest.xml:18:17-127
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a033289d2a512de5a7e86d4e4cdf53a8/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a033289d2a512de5a7e86d4e4cdf53a8/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
-	android:exported
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a033289d2a512de5a7e86d4e4cdf53a8/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a033289d2a512de5a7e86d4e4cdf53a8/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
-	android:name
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a033289d2a512de5a7e86d4e4cdf53a8/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/6f3eed4834a171b6b2bfe94a1d14436b/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/6f3eed4834a171b6b2bfe94a1d14436b/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d84030a71d871493ee0e7644ea27c4a2/play-services-auth-19.0.0/AndroidManifest.xml:26:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/6f3eed4834a171b6b2bfe94a1d14436b/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d84030a71d871493ee0e7644ea27c4a2/play-services-auth-19.0.0/AndroidManifest.xml:27:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/6f3eed4834a171b6b2bfe94a1d14436b/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c654283aa4e0437107eb9edd2ed4abce/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d84030a71d871493ee0e7644ea27c4a2/play-services-auth-19.0.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d84030a71d871493ee0e7644ea27c4a2/play-services-auth-19.0.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d84030a71d871493ee0e7644ea27c4a2/play-services-auth-19.0.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d84030a71d871493ee0e7644ea27c4a2/play-services-auth-19.0.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d84030a71d871493ee0e7644ea27c4a2/play-services-auth-19.0.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/d84030a71d871493ee0e7644ea27c4a2/play-services-auth-19.0.0/AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/e9984be33fc8a920c66b3ef9eb9e09e3/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/e9984be33fc8a920c66b3ef9eb9e09e3/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:32:13-34:85
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c654283aa4e0437107eb9edd2ed4abce/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:34:17-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/c654283aa4e0437107eb9edd2ed4abce/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/4d20c3f1742665b12402e1f42d19b9cb/firebase-iid-21.0.1/AndroidManifest.xml:38:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/87de111cf3e68002d567f5927fd9f327/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/87de111cf3e68002d567f5927fd9f327/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/87de111cf3e68002d567f5927fd9f327/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/87de111cf3e68002d567f5927fd9f327/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/26c2e1d5ac959a06f28454385aaa4ddc/firebase-installations-16.3.5/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/26c2e1d5ac959a06f28454385aaa4ddc/firebase-installations-16.3.5/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/26c2e1d5ac959a06f28454385aaa4ddc/firebase-installations-16.3.5/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f82d45cea499d676949caea623d8ea3c/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f82d45cea499d676949caea623d8ea3c/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f82d45cea499d676949caea623d8ea3c/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f82d45cea499d676949caea623d8ea3c/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f82d45cea499d676949caea623d8ea3c/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f82d45cea499d676949caea623d8ea3c/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
+ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f82d45cea499d676949caea623d8ea3c/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f82d45cea499d676949caea623d8ea3c/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/f82d45cea499d676949caea623d8ea3c/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a3d0f7b184011f1739253575364b297c/jetified-play-services-basement-17.1.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a3d0f7b184011f1739253575364b297c/jetified-play-services-basement-17.1.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/seb.malbois/.gradle/caches/transforms-2/files-2.1/a3d0f7b184011f1739253575364b297c/jetified-play-services-basement-17.1.1/AndroidManifest.xml:24:13-58
